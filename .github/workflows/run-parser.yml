@@ -1,0 +1,28 @@
+name: Run Blogger Parser
+
+on:
+  schedule:
+    # Запуск каждые 6 часов
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Опция для ручного запуска из интерфейса GitHub
+
+jobs:
+  run-parser:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Run parser
+      run: python "Python blogger_parser.py"
+
+    - name: Upload results
+      uses: actions/upload-artifact@v4
+      with:
+        name: blog-posts
+        path: blog_posts*.json
