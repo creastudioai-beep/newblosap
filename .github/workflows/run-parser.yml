@@ -19,7 +19,7 @@ jobs:
         python-version: '3.x'
 
     - name: Run parser
-      run: python "Python blogger_parser.py"
+      run: python "blogger_parser.py"
 
     - name: Upload results
       uses: actions/upload-artifact@v4
