@@ -3,12 +3,57 @@
     "blog_id": "tag:blogger.com,1999:blog-6686442793681488627",
     "title": "sochiautoparts",
     "subtitle": "sochiautoparts.ru",
-    "total_posts": 17,
+    "total_posts": 18,
     "blog_url": "https://sochi-autoparts.blogspot.com",
     "feed_url": "https://sochi-autoparts.blogspot.com/feeds/posts/default",
-    "parsed_at": "2026-04-25T16:33:28.000Z"
+    "parsed_at": "2026-04-25T16:54:47.000Z"
   },
   "posts": [
+    {
+      "title": "Колесо.ру - официальный интернет-магазин шин и дисков",
+      "slug": "koleso-ru-ofitsialnyy-internet-magazin-shin-i-diskov",
+      "url": "https://sochi-autoparts.blogspot.com/2026/04/blog-post_25.html",
+      "published": "2026-04-25T16:52:00.000Z",
+      "updated": "2026-04-25T16:52:50.000Z",
+      "description": "Широкий ассортимент автомобильных шин и дисков;\nБольшое разнообразие предлагаемых услуг в сфере шиномонтажа и автосервиса;\nВозможность сдать свои колеса на сезонное хранение в ближайшем...",
+      "categories": [],
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5uCUOxm8BImMnY57gtG9M37m_l8nOf_cjKZ3WCGFlJgLD1NquXg3mv8lOl0W2mc0sb8BnpiH3AtRF1yFLEtX8uprTo2HRkBr5wLdr8u0YkAGsoY_6sovN7xAsBs3gYPvmYhwtB72Go3f2gTl3VsPecGRGoXU2zECYYwcmYgDbT-vRWI1-KoxJjb6pQTs/s320/banner-500x500.555f.jpg",
+      "image_count": 1,
+      "word_count": 90,
+      "json_ld": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Колесо.ру - официальный интернет-магазин шин и дисков",
+        "url": "https://sochiautoparts.ru/blog/koleso-ru-ofitsialnyy-internet-magazin-shin-i-diskov",
+        "datePublished": "2026-04-25T16:52:00.000Z",
+        "dateModified": "2026-04-25T16:52:50.000Z",
+        "description": "Широкий ассортимент автомобильных шин и дисков;\nБольшое разнообразие предлагаемых услуг в сфере шиномонтажа и автосервиса;\nВозможность сдать свои колеса на сезонное хранение в ближайшем...",
+        "inLanguage": "ru-RU",
+        "publisher": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS",
+          "url": "https://sochiautoparts.ru",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://sochi-autoparts.blogspot.com/2026/04/blog-post_25.html"
+        },
+        "author": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS"
+        },
+        "articleSection": "Autos",
+        "wordCount": 90,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5uCUOxm8BImMnY57gtG9M37m_l8nOf_cjKZ3WCGFlJgLD1NquXg3mv8lOl0W2mc0sb8BnpiH3AtRF1yFLEtX8uprTo2HRkBr5wLdr8u0YkAGsoY_6sovN7xAsBs3gYPvmYhwtB72Go3f2gTl3VsPecGRGoXU2zECYYwcmYgDbT-vRWI1-KoxJjb6pQTs/s320/banner-500x500.555f.jpg"
+        }
+      }
+    },
     {
       "title": "Автомасла Lukoil. Онлайн подборщик масел LUKOIL",
       "slug": "avtomasla-lukoil-onlayn-podborshchik-masel-lukoil",
