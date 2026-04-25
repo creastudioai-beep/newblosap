@@ -3,12 +3,57 @@
     "blog_id": "tag:blogger.com,1999:blog-6686442793681488627",
     "title": "sochiautoparts",
     "subtitle": "sochiautoparts.ru",
-    "total_posts": 16,
+    "total_posts": 17,
     "blog_url": "https://sochi-autoparts.blogspot.com",
     "feed_url": "https://sochi-autoparts.blogspot.com/feeds/posts/default",
-    "parsed_at": "2026-04-25T13:09:13.000Z"
+    "parsed_at": "2026-04-25T16:33:28.000Z"
   },
   "posts": [
+    {
+      "title": "Автомасла Lukoil. Онлайн подборщик масел LUKOIL",
+      "slug": "avtomasla-lukoil-onlayn-podborshchik-masel-lukoil",
+      "url": "https://sochi-autoparts.blogspot.com/2026/04/lukoil-lukoil.html",
+      "published": "2026-04-25T16:32:00.000Z",
+      "updated": "2026-04-25T16:32:56.000Z",
+      "description": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории \nмоторных и трансмиссионных масел, автохимию, охлаждающие и тормозные \nжидкости.\n\nЕсть онлайн подборщик масел, в котором можно...",
+      "categories": [],
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPmlXjdJ_q7pBJQoky1k_IJwkMtEZX6wxQLopTANUFXdOcsMcNyCU8HHqH-1llhVLXSPI3WdDp_0mip1YRV9-ek55xciDxtzUrZROnWfq3jSQRyIAviJIZ4Y2OVcOKFIrwOBSvrHFrMelFEzVe6So-e8KQE4M7TBg5KrmfwJFcakBVsF-7gURpS2Ltmcw/s320/photo_2026-04-25_11-39-13.jpg",
+      "image_count": 1,
+      "word_count": 67,
+      "json_ld": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Автомасла Lukoil. Онлайн подборщик масел LUKOIL",
+        "url": "https://sochiautoparts.ru/blog/avtomasla-lukoil-onlayn-podborshchik-masel-lukoil",
+        "datePublished": "2026-04-25T16:32:00.000Z",
+        "dateModified": "2026-04-25T16:32:56.000Z",
+        "description": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории \nмоторных и трансмиссионных масел, автохимию, охлаждающие и тормозные \nжидкости.\n\nЕсть онлайн подборщик масел, в котором можно...",
+        "inLanguage": "ru-RU",
+        "publisher": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS",
+          "url": "https://sochiautoparts.ru",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://sochi-autoparts.blogspot.com/2026/04/lukoil-lukoil.html"
+        },
+        "author": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS"
+        },
+        "articleSection": "Autos",
+        "wordCount": 67,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPmlXjdJ_q7pBJQoky1k_IJwkMtEZX6wxQLopTANUFXdOcsMcNyCU8HHqH-1llhVLXSPI3WdDp_0mip1YRV9-ek55xciDxtzUrZROnWfq3jSQRyIAviJIZ4Y2OVcOKFIrwOBSvrHFrMelFEzVe6So-e8KQE4M7TBg5KrmfwJFcakBVsF-7gURpS2Ltmcw/s320/photo_2026-04-25_11-39-13.jpg"
+        }
+      }
+    },
     {
       "title": "Что означают буквы и цифры на моторном масле? Полная расшифровка вязкости 5W-30, 0W-20 и других",
       "slug": "chto-oznachayut-bukvy-i-tsifry-na-motornom-masle-polnaya-rasshifrovka-vyazkosti-",
