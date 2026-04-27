@@ -3,12 +3,57 @@
     "blog_id": "tag:blogger.com,1999:blog-6686442793681488627",
     "title": "sochiautoparts",
     "subtitle": "sochiautoparts.ru",
-    "total_posts": 18,
+    "total_posts": 19,
     "blog_url": "https://sochi-autoparts.blogspot.com",
     "feed_url": "https://sochi-autoparts.blogspot.com/feeds/posts/default",
-    "parsed_at": "2026-04-27T02:57:15.000Z"
+    "parsed_at": "2026-04-27T05:46:04.000Z"
   },
   "posts": [
+    {
+      "title": "Автозапчасти FEBI BILSTEIN: Полный гид по бренду и ассортименту",
+      "slug": "avtozapchasti-febi-bilstein-polnyy-gid-po-brendu-i-assortimentu",
+      "url": "https://sochi-autoparts.blogspot.com/2026/04/febi-bilstein.html",
+      "published": "2026-04-27T05:35:00.000Z",
+      "updated": "2026-04-27T05:35:59.000Z",
+      "description": "Автозапчасти FEBI\nBILSTEIN: Полный гид по бренду и ассортименту\n\nВведение в\nмир качественных автозапчастей FEBI BILSTEIN\n\nFEBI BILSTEIN\n— это один из ведущих мировых производителей...",
+      "categories": [],
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEPVXTUZsJsB6qydB5TFw6KivnTG3hIR7ZzkkreicmErCm6n9cDggIQVhmQeG1NCan8kJIOlNUmcoYJLIOx1HCHfx91iqeBCJCPYUn8w9bdEgmwWDC9vlckVg2jXGluCtMAs1iZpbfOnhsdsBiHbeS1UFgGiVNsNla4bcLqqU9_ZvVZxSCNxkAbWKTXP4/s320/IMG_20220519_145319.jpg",
+      "image_count": 1,
+      "word_count": 1885,
+      "json_ld": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Автозапчасти FEBI BILSTEIN: Полный гид по бренду и ассортименту",
+        "url": "https://sochiautoparts.ru/blog/avtozapchasti-febi-bilstein-polnyy-gid-po-brendu-i-assortimentu",
+        "datePublished": "2026-04-27T05:35:00.000Z",
+        "dateModified": "2026-04-27T05:35:59.000Z",
+        "description": "Автозапчасти FEBI\nBILSTEIN: Полный гид по бренду и ассортименту\n\nВведение в\nмир качественных автозапчастей FEBI BILSTEIN\n\nFEBI BILSTEIN\n— это один из ведущих мировых производителей...",
+        "inLanguage": "ru-RU",
+        "publisher": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS",
+          "url": "https://sochiautoparts.ru",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://sochi-autoparts.blogspot.com/2026/04/febi-bilstein.html"
+        },
+        "author": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS"
+        },
+        "articleSection": "Autos",
+        "wordCount": 1885,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEPVXTUZsJsB6qydB5TFw6KivnTG3hIR7ZzkkreicmErCm6n9cDggIQVhmQeG1NCan8kJIOlNUmcoYJLIOx1HCHfx91iqeBCJCPYUn8w9bdEgmwWDC9vlckVg2jXGluCtMAs1iZpbfOnhsdsBiHbeS1UFgGiVNsNla4bcLqqU9_ZvVZxSCNxkAbWKTXP4/s320/IMG_20220519_145319.jpg"
+        }
+      }
+    },
     {
       "title": "Колесо.ру - официальный интернет-магазин шин и дисков",
       "slug": "koleso-ru-ofitsialnyy-internet-magazin-shin-i-diskov",
