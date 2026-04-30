@@ -6,7 +6,7 @@
     "total_posts": 22,
     "blog_url": "https://sochi-autoparts.blogspot.com",
     "feed_url": "https://sochi-autoparts.blogspot.com/feeds/posts/default",
-    "parsed_at": "2026-04-30T14:53:05.000Z"
+    "parsed_at": "2026-04-30T15:30:42.000Z"
   },
   "posts": [
     {
@@ -14,20 +14,20 @@
       "slug": "v-onlayn-magazine-lukoyl-smazochnye-materialy-mozhno-nayti-kategorii-motornykh-i",
       "url": "https://sochi-autoparts.blogspot.com/2026/04/blog-post_30.html",
       "published": "2026-04-30T14:51:00.000Z",
-      "updated": "2026-04-30T14:51:44.000Z",
-      "description": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.",
+      "updated": "2026-04-30T15:28:57.000Z",
+      "description": "",
       "categories": [],
-      "thumbnail": null,
-      "image_count": 0,
-      "word_count": 0,
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJioBmbHCPKhhOHUxsJki2vptie3yCWe8iIcsFDwCGn_6eobgVek7_T89ESlWzQa6nQ9T0cr-NmW5n5H6bIQsdCpWEEFSM_6cyM96DcB8Iw3yODqp30f4K6R7nLYo_O1nr_HUSqrbKOAYSaJHCpRX90QJgZPbInuEyzynRbyZXIYxuZqDYRQ-NQ2gw8hQ/s320/photo_2026-04-30_08-43-55.jpg",
+      "image_count": 1,
+      "word_count": 18,
       "json_ld": {
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.",
         "url": "https://sochiautoparts.ru/blog/v-onlayn-magazine-lukoyl-smazochnye-materialy-mozhno-nayti-kategorii-motornykh-i",
         "datePublished": "2026-04-30T14:51:00.000Z",
-        "dateModified": "2026-04-30T14:51:44.000Z",
-        "description": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.",
+        "dateModified": "2026-04-30T15:28:57.000Z",
+        "description": "",
         "inLanguage": "ru-RU",
         "publisher": {
           "@type": "Organization",
@@ -47,8 +47,11 @@
           "name": "SOCHIAUTOPARTS"
         },
         "articleSection": "Autos",
-        "wordCount": 0,
-        "image": null
+        "wordCount": 18,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJioBmbHCPKhhOHUxsJki2vptie3yCWe8iIcsFDwCGn_6eobgVek7_T89ESlWzQa6nQ9T0cr-NmW5n5H6bIQsdCpWEEFSM_6cyM96DcB8Iw3yODqp30f4K6R7nLYo_O1nr_HUSqrbKOAYSaJHCpRX90QJgZPbInuEyzynRbyZXIYxuZqDYRQ-NQ2gw8hQ/s320/photo_2026-04-30_08-43-55.jpg"
+        }
       }
     },
     {
