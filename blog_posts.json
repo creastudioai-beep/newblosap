@@ -3,12 +3,70 @@
     "blog_id": "tag:blogger.com,1999:blog-6686442793681488627",
     "title": "sochiautoparts",
     "subtitle": "sochiautoparts.ru",
-    "total_posts": 21,
+    "total_posts": 22,
     "blog_url": "https://sochi-autoparts.blogspot.com",
     "feed_url": "https://sochi-autoparts.blogspot.com/feeds/posts/default",
-    "parsed_at": "2026-04-30T14:01:11.000Z"
+    "parsed_at": "2026-04-30T14:53:05.000Z"
   },
   "posts": [
+    {
+      "id": "tag:blogger.com,1999:blog-6686442793681488627.post-1429456591531572227",
+      "title": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.",
+      "slug": "v-onlayn-magazine-lukoyl-smazochnye-materialy-mozhno-nayti-kategorii-motornykh-i",
+      "url": "https://sochi-autoparts.blogspot.com/2026/04/blog-post_30.html",
+      "original_url": "https://sochi-autoparts.blogspot.com/2026/04/blog-post_30.html",
+      "published": "2026-04-30T14:51:00.000Z",
+      "updated": "2026-04-30T14:51:44.000Z",
+      "description": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.",
+      "categories": [],
+      "tags": [],
+      "author": {
+        "name": "SOCHIAUTOPARTS",
+        "url": "https://sochiautoparts.ru"
+      },
+      "content_html": "<p><br/></p> <iframe src=\"https://creastudioai-beep.github.io/widget/admitad-widget.html\" \n        width=\"100%\" \n        height=\"800\" \n        frameborder=\"0\" \n        style=\"border:none; overflow:auto; display:block;\">\n</iframe>",
+      "content_text": "",
+      "thumbnail": null,
+      "images": [],
+      "image_count": 0,
+      "word_count": 0,
+      "seo": {
+        "headline": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.",
+        "description": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.",
+        "inLanguage": "ru-RU",
+        "articleSection": "Autos"
+      },
+      "json_ld": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.",
+        "url": "https://sochiautoparts.ru/blog/v-onlayn-magazine-lukoyl-smazochnye-materialy-mozhno-nayti-kategorii-motornykh-i",
+        "datePublished": "2026-04-30T14:51:00.000Z",
+        "dateModified": "2026-04-30T14:51:44.000Z",
+        "description": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.",
+        "inLanguage": "ru-RU",
+        "publisher": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS",
+          "url": "https://sochiautoparts.ru",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://sochi-autoparts.blogspot.com/2026/04/blog-post_30.html"
+        },
+        "author": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS"
+        },
+        "articleSection": "Autos",
+        "wordCount": 0,
+        "image": null
+      }
+    },
     {
       "id": "tag:blogger.com,1999:blog-6686442793681488627.post-669116290254828129",
       "title": "LUK (Schaeffler): полное руководство по комплектам сцепления — от двухмассовых маховиков до DSG. Ассортимент, артикулы, обзор бренда",
