@@ -3,12 +3,57 @@
     "blog_id": "tag:blogger.com,1999:blog-6686442793681488627",
     "title": "sochiautoparts",
     "subtitle": "sochiautoparts.ru",
-    "total_posts": 23,
+    "total_posts": 24,
     "blog_url": "https://sochi-autoparts.blogspot.com",
     "feed_url": "https://sochi-autoparts.blogspot.com/feeds/posts/default",
-    "parsed_at": "2026-05-13T08:47:04.000Z"
+    "parsed_at": "2026-05-13T12:36:07.000Z"
   },
   "posts": [
+    {
+      "title": "Надёжность, проверенная временем: знакомьтесь с партнёром Globaldrive Широчайший ассортимент техники для активного отдыха",
+      "slug": "nadyozhnost-proverennaya-vremenem-znakomtes-s-partnyorom-globaldrive-shirochaysh",
+      "url": "https://sochi-autoparts.blogspot.com/2026/05/globaldrive.html",
+      "published": "2026-05-13T10:26:08.000Z",
+      "updated": "2026-05-13T10:26:08.000Z",
+      "description": "Компания Globaldrive - это широчайший ассортимент техники для активного отдыха. Всегда в ассортименте широкий выбор моделей спортивной, силовой, зимней, водной и мото-техники на территории РФ и за...",
+      "categories": [],
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjPDKoWEuiMxocL3h1I7f8UgDwHQFaISdV0ZhSmmGLpfyeSTZz5iqzaS8MAgufxYrua4Wu1sVKuWOigP-bS16QTenpmi4ULPbM37VUmYTHJ1S4h4bGEcouSERTO1BtK_yUn8qr_-ev-u40yNoBzeDhCEsXK9dc1oTQ6wbz4Cc8GExV6eyk_GJsIDIlCI8/w651-h315/qonorx8tvw6ldmqqdhnglvixp8xtjwf1.jpg",
+      "image_count": 1,
+      "word_count": 262,
+      "json_ld": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Надёжность, проверенная временем: знакомьтесь с партнёром Globaldrive Широчайший ассортимент техники для активного отдыха",
+        "url": "https://sochiautoparts.ru/blog/nadyozhnost-proverennaya-vremenem-znakomtes-s-partnyorom-globaldrive-shirochaysh",
+        "datePublished": "2026-05-13T10:26:08.000Z",
+        "dateModified": "2026-05-13T10:26:08.000Z",
+        "description": "Компания Globaldrive - это широчайший ассортимент техники для активного отдыха. Всегда в ассортименте широкий выбор моделей спортивной, силовой, зимней, водной и мото-техники на территории РФ и за...",
+        "inLanguage": "ru-RU",
+        "publisher": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS",
+          "url": "https://sochiautoparts.ru",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://sochi-autoparts.blogspot.com/2026/05/globaldrive.html"
+        },
+        "author": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS"
+        },
+        "articleSection": "Autos",
+        "wordCount": 262,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjPDKoWEuiMxocL3h1I7f8UgDwHQFaISdV0ZhSmmGLpfyeSTZz5iqzaS8MAgufxYrua4Wu1sVKuWOigP-bS16QTenpmi4ULPbM37VUmYTHJ1S4h4bGEcouSERTO1BtK_yUn8qr_-ev-u40yNoBzeDhCEsXK9dc1oTQ6wbz4Cc8GExV6eyk_GJsIDIlCI8/w651-h315/qonorx8tvw6ldmqqdhnglvixp8xtjwf1.jpg"
+        }
+      }
+    },
     {
       "title": "ZAP.ONLINE - Автотовары",
       "slug": "zap-online-avtotovary",
