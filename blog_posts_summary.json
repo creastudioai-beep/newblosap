@@ -6,9 +6,54 @@
     "total_posts": 26,
     "blog_url": "https://sochi-autoparts.blogspot.com",
     "feed_url": "https://sochi-autoparts.blogspot.com/feeds/posts/default",
-    "parsed_at": "2026-05-19T09:48:29.000Z"
+    "parsed_at": "2026-05-19T09:56:01.000Z"
   },
   "posts": [
+    {
+      "title": "Колесо.ру - официальный интернет-магазин шин и дисков",
+      "slug": "koleso-ru-ofitsialnyy-internet-magazin-shin-i-diskov",
+      "url": "https://sochi-autoparts.blogspot.com/2026/05/blog-post_19.html",
+      "published": "2026-05-19T09:54:25.000Z",
+      "updated": "2026-05-19T09:54:25.000Z",
+      "description": "Колесо.ру -\nофициальный интернет-магазин шин и дисков\n\nШирокий\n ассортимент автомобильных шин и дисков;\nБольшое\n разнообразие предлагаемых услуг в сфере шиномонтажа и автосервиса;\nВозможность\n сдать...",
+      "categories": [],
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbiV3B5oDHR1T8A9JV0g9PKk8l06LivMy93Y47Vzgntq-Qh2snqgF8iD5YAjnkn7CPpSr9D9TQwdiFHMDqt1wgtcaBDbgWDIO-XXjr3Vu0sAP0zwk94UhHZuaREeKhlKBu_3Qjp8neMA_eLLoFdok3btsMAdyPMYtxG5Jd4Lmnu04XmvqXgJm2qJdh1qM/s320/banner-500x500.555f%20(1).jpg",
+      "image_count": 1,
+      "word_count": 94,
+      "json_ld": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Колесо.ру - официальный интернет-магазин шин и дисков",
+        "url": "https://sochiautoparts.ru/blog/koleso-ru-ofitsialnyy-internet-magazin-shin-i-diskov",
+        "datePublished": "2026-05-19T09:54:25.000Z",
+        "dateModified": "2026-05-19T09:54:25.000Z",
+        "description": "Колесо.ру -\nофициальный интернет-магазин шин и дисков\n\nШирокий\n ассортимент автомобильных шин и дисков;\nБольшое\n разнообразие предлагаемых услуг в сфере шиномонтажа и автосервиса;\nВозможность\n сдать...",
+        "inLanguage": "ru-RU",
+        "publisher": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS",
+          "url": "https://sochiautoparts.ru",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://sochi-autoparts.blogspot.com/2026/05/blog-post_19.html"
+        },
+        "author": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS"
+        },
+        "articleSection": "Autos",
+        "wordCount": 94,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbiV3B5oDHR1T8A9JV0g9PKk8l06LivMy93Y47Vzgntq-Qh2snqgF8iD5YAjnkn7CPpSr9D9TQwdiFHMDqt1wgtcaBDbgWDIO-XXjr3Vu0sAP0zwk94UhHZuaREeKhlKBu_3Qjp8neMA_eLLoFdok3btsMAdyPMYtxG5Jd4Lmnu04XmvqXgJm2qJdh1qM/s320/banner-500x500.555f%20(1).jpg"
+        }
+      }
+    },
     {
       "title": "Проверка автомобиля с помощью сервиса «Автокод»",
       "slug": "proverka-avtomobilya-s-pomoshchyu-servisa-avtokod",
@@ -366,51 +411,6 @@
         "image": {
           "@type": "ImageObject",
           "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEPVXTUZsJsB6qydB5TFw6KivnTG3hIR7ZzkkreicmErCm6n9cDggIQVhmQeG1NCan8kJIOlNUmcoYJLIOx1HCHfx91iqeBCJCPYUn8w9bdEgmwWDC9vlckVg2jXGluCtMAs1iZpbfOnhsdsBiHbeS1UFgGiVNsNla4bcLqqU9_ZvVZxSCNxkAbWKTXP4/s320/IMG_20220519_145319.jpg"
-        }
-      }
-    },
-    {
-      "title": "Колесо.ру - официальный интернет-магазин шин и дисков",
-      "slug": "koleso-ru-ofitsialnyy-internet-magazin-shin-i-diskov",
-      "url": "https://sochi-autoparts.blogspot.com/2026/04/blog-post_25.html",
-      "published": "2026-04-25T16:52:00.000Z",
-      "updated": "2026-04-25T16:52:50.000Z",
-      "description": "Широкий ассортимент автомобильных шин и дисков;\nБольшое разнообразие предлагаемых услуг в сфере шиномонтажа и автосервиса;\nВозможность сдать свои колеса на сезонное хранение в ближайшем...",
-      "categories": [],
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5uCUOxm8BImMnY57gtG9M37m_l8nOf_cjKZ3WCGFlJgLD1NquXg3mv8lOl0W2mc0sb8BnpiH3AtRF1yFLEtX8uprTo2HRkBr5wLdr8u0YkAGsoY_6sovN7xAsBs3gYPvmYhwtB72Go3f2gTl3VsPecGRGoXU2zECYYwcmYgDbT-vRWI1-KoxJjb6pQTs/s320/banner-500x500.555f.jpg",
-      "image_count": 1,
-      "word_count": 90,
-      "json_ld": {
-        "@context": "https://schema.org",
-        "@type": "NewsArticle",
-        "headline": "Колесо.ру - официальный интернет-магазин шин и дисков",
-        "url": "https://sochiautoparts.ru/blog/koleso-ru-ofitsialnyy-internet-magazin-shin-i-diskov",
-        "datePublished": "2026-04-25T16:52:00.000Z",
-        "dateModified": "2026-04-25T16:52:50.000Z",
-        "description": "Широкий ассортимент автомобильных шин и дисков;\nБольшое разнообразие предлагаемых услуг в сфере шиномонтажа и автосервиса;\nВозможность сдать свои колеса на сезонное хранение в ближайшем...",
-        "inLanguage": "ru-RU",
-        "publisher": {
-          "@type": "Organization",
-          "name": "SOCHIAUTOPARTS",
-          "url": "https://sochiautoparts.ru",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg"
-          }
-        },
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://sochi-autoparts.blogspot.com/2026/04/blog-post_25.html"
-        },
-        "author": {
-          "@type": "Organization",
-          "name": "SOCHIAUTOPARTS"
-        },
-        "articleSection": "Autos",
-        "wordCount": 90,
-        "image": {
-          "@type": "ImageObject",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5uCUOxm8BImMnY57gtG9M37m_l8nOf_cjKZ3WCGFlJgLD1NquXg3mv8lOl0W2mc0sb8BnpiH3AtRF1yFLEtX8uprTo2HRkBr5wLdr8u0YkAGsoY_6sovN7xAsBs3gYPvmYhwtB72Go3f2gTl3VsPecGRGoXU2zECYYwcmYgDbT-vRWI1-KoxJjb6pQTs/s320/banner-500x500.555f.jpg"
         }
       }
     },
