@@ -3,12 +3,54 @@
     "blog_id": "tag:blogger.com,1999:blog-6686442793681488627",
     "title": "sochiautoparts",
     "subtitle": "sochiautoparts.ru",
-    "total_posts": 24,
+    "total_posts": 25,
     "blog_url": "https://sochi-autoparts.blogspot.com",
     "feed_url": "https://sochi-autoparts.blogspot.com/feeds/posts/default",
-    "parsed_at": "2026-05-19T03:42:48.000Z"
+    "parsed_at": "2026-05-19T08:58:29.000Z"
   },
   "posts": [
+    {
+      "title": "Подбор и заказ масла Lukoil",
+      "slug": "podbor-i-zakaz-masla-lukoil",
+      "url": "https://sochi-autoparts.blogspot.com/2026/05/lukoil.html",
+      "published": "2026-05-19T08:32:56.000Z",
+      "updated": "2026-05-19T08:32:56.000Z",
+      "description": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.\nЕсть онлайн подборщик масел, в котором можно...",
+      "categories": [],
+      "thumbnail": null,
+      "image_count": 0,
+      "word_count": 57,
+      "json_ld": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Подбор и заказ масла Lukoil",
+        "url": "https://sochiautoparts.ru/blog/podbor-i-zakaz-masla-lukoil",
+        "datePublished": "2026-05-19T08:32:56.000Z",
+        "dateModified": "2026-05-19T08:32:56.000Z",
+        "description": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.\nЕсть онлайн подборщик масел, в котором можно...",
+        "inLanguage": "ru-RU",
+        "publisher": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS",
+          "url": "https://sochiautoparts.ru",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://sochi-autoparts.blogspot.com/2026/05/lukoil.html"
+        },
+        "author": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS"
+        },
+        "articleSection": "Autos",
+        "wordCount": 57,
+        "image": null
+      }
+    },
     {
       "title": "Надёжность, проверенная временем: знакомьтесь с партнёром Globaldrive Широчайший ассортимент техники для активного отдыха",
       "slug": "nadyozhnost-proverennaya-vremenem-znakomtes-s-partnyorom-globaldrive-shirochaysh",
