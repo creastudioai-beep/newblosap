@@ -3,18 +3,63 @@
     "blog_id": "tag:blogger.com,1999:blog-6686442793681488627",
     "title": "sochiautoparts",
     "subtitle": "sochiautoparts.ru",
-    "total_posts": 26,
+    "total_posts": 27,
     "blog_url": "https://sochi-autoparts.blogspot.com",
     "feed_url": "https://sochi-autoparts.blogspot.com/feeds/posts/default",
-    "parsed_at": "2026-05-19T09:56:01.000Z"
+    "parsed_at": "2026-05-19T15:28:14.000Z"
   },
   "posts": [
+    {
+      "title": "Подборка Telegram-ботов",
+      "slug": "podborka-telegram-botov",
+      "url": "https://sochi-autoparts.blogspot.com/2026/05/telegram.html",
+      "published": "2026-05-19T14:17:06.000Z",
+      "updated": "2026-05-19T14:17:06.000Z",
+      "description": "📱✨\n\n http://t.me/Lukoiloil_bot/oil — официальный магазин масел и товаров ЛУКОЙЛ с доставкой 🛢️🚚.\n  \nhttp://t.me/autokod_pro_bot/pro — проверка авто по базам ГИБДД, ДТП, залогов, пробега 🚗🔍.\n...",
+      "categories": [],
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF32grUiVbsGuUtDogZLFeE6H5hD6fr0INJzyq1mxoE_L96LTMjT55jo0L_rcZxdlag9LjoZ4pf4MXzXbJgqHPpYNUQ-BK1GH18eOj4BWD1kTl3KtKbjKtu8wlFjccvzMK349aXXU7sj-4mz9Ah6ZZJ-zk9ofMkL9026IXXU2-Trb5DNHiLS0FmWt2H2E/s320/photo_2026-05-19_16-47-08.jpg",
+      "image_count": 2,
+      "word_count": 71,
+      "json_ld": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Подборка Telegram-ботов",
+        "url": "https://sochiautoparts.ru/blog/podborka-telegram-botov",
+        "datePublished": "2026-05-19T14:17:06.000Z",
+        "dateModified": "2026-05-19T14:17:06.000Z",
+        "description": "📱✨\n\n http://t.me/Lukoiloil_bot/oil — официальный магазин масел и товаров ЛУКОЙЛ с доставкой 🛢️🚚.\n  \nhttp://t.me/autokod_pro_bot/pro — проверка авто по базам ГИБДД, ДТП, залогов, пробега 🚗🔍.\n...",
+        "inLanguage": "ru-RU",
+        "publisher": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS",
+          "url": "https://sochiautoparts.ru",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://sochi-autoparts.blogspot.com/2026/05/telegram.html"
+        },
+        "author": {
+          "@type": "Organization",
+          "name": "SOCHIAUTOPARTS"
+        },
+        "articleSection": "Autos",
+        "wordCount": 71,
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF32grUiVbsGuUtDogZLFeE6H5hD6fr0INJzyq1mxoE_L96LTMjT55jo0L_rcZxdlag9LjoZ4pf4MXzXbJgqHPpYNUQ-BK1GH18eOj4BWD1kTl3KtKbjKtu8wlFjccvzMK349aXXU7sj-4mz9Ah6ZZJ-zk9ofMkL9026IXXU2-Trb5DNHiLS0FmWt2H2E/s320/photo_2026-05-19_16-47-08.jpg"
+        }
+      }
+    },
     {
       "title": "Колесо.ру - официальный интернет-магазин шин и дисков",
       "slug": "koleso-ru-ofitsialnyy-internet-magazin-shin-i-diskov",
       "url": "https://sochi-autoparts.blogspot.com/2026/05/blog-post_19.html",
       "published": "2026-05-19T09:54:25.000Z",
-      "updated": "2026-05-19T09:54:25.000Z",
+      "updated": "2026-05-19T11:54:04.000Z",
       "description": "Колесо.ру -\nофициальный интернет-магазин шин и дисков\n\nШирокий\n ассортимент автомобильных шин и дисков;\nБольшое\n разнообразие предлагаемых услуг в сфере шиномонтажа и автосервиса;\nВозможность\n сдать...",
       "categories": [],
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbiV3B5oDHR1T8A9JV0g9PKk8l06LivMy93Y47Vzgntq-Qh2snqgF8iD5YAjnkn7CPpSr9D9TQwdiFHMDqt1wgtcaBDbgWDIO-XXjr3Vu0sAP0zwk94UhHZuaREeKhlKBu_3Qjp8neMA_eLLoFdok3btsMAdyPMYtxG5Jd4Lmnu04XmvqXgJm2qJdh1qM/s320/banner-500x500.555f%20(1).jpg",
@@ -26,7 +71,7 @@
         "headline": "Колесо.ру - официальный интернет-магазин шин и дисков",
         "url": "https://sochiautoparts.ru/blog/koleso-ru-ofitsialnyy-internet-magazin-shin-i-diskov",
         "datePublished": "2026-05-19T09:54:25.000Z",
-        "dateModified": "2026-05-19T09:54:25.000Z",
+        "dateModified": "2026-05-19T11:54:04.000Z",
         "description": "Колесо.ру -\nофициальный интернет-магазин шин и дисков\n\nШирокий\n ассортимент автомобильных шин и дисков;\nБольшое\n разнообразие предлагаемых услуг в сфере шиномонтажа и автосервиса;\nВозможность\n сдать...",
         "inLanguage": "ru-RU",
         "publisher": {
@@ -59,7 +104,7 @@
       "slug": "proverka-avtomobilya-s-pomoshchyu-servisa-avtokod",
       "url": "https://sochi-autoparts.blogspot.com/2026/05/blog-post.html",
       "published": "2026-05-19T09:08:33.000Z",
-      "updated": "2026-05-19T09:22:16.000Z",
+      "updated": "2026-05-19T11:54:23.000Z",
       "description": "Сервис “Автокод - проверка автомобиля с гарантией” -\nлидирующий сервис в России по проверке истории автомобиля.\n\nAvtocod.ru – первый официальный сервис,\nпредоставляющий полный и правдивый отчет по...",
       "categories": [],
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicbdw2AxxQJ2MnyCd-PgY3OUppqFJ1hDuxkEa_BwcizlTWhOEP8G2y0CfSP8LDyQG3_Tm3JuMtCrHEwJNKne4qGN3uKcWN3jvkvCANrWHiFAJRPn4q8duE77l5CwuIHRBvwH2-KVVFT22_DzjnWA78EvMFX65GhDLq8YfSIyKbYROufhjdWY5VdDfIzGg/s320/banner-500x500_adswm.985e.png",
@@ -71,7 +116,7 @@
         "headline": "Проверка автомобиля с помощью сервиса «Автокод»",
         "url": "https://sochiautoparts.ru/blog/proverka-avtomobilya-s-pomoshchyu-servisa-avtokod",
         "datePublished": "2026-05-19T09:08:33.000Z",
-        "dateModified": "2026-05-19T09:22:16.000Z",
+        "dateModified": "2026-05-19T11:54:23.000Z",
         "description": "Сервис “Автокод - проверка автомобиля с гарантией” -\nлидирующий сервис в России по проверке истории автомобиля.\n\nAvtocod.ru – первый официальный сервис,\nпредоставляющий полный и правдивый отчет по...",
         "inLanguage": "ru-RU",
         "publisher": {
@@ -104,8 +149,8 @@
       "slug": "podbor-i-zakaz-masla-lukoil",
       "url": "https://sochi-autoparts.blogspot.com/2026/05/lukoil.html",
       "published": "2026-05-19T08:32:56.000Z",
-      "updated": "2026-05-19T09:23:26.000Z",
-      "description": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.\nЕсть онлайн подборщик масел, в котором можно...",
+      "updated": "2026-05-19T12:04:09.000Z",
+      "description": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти\nкатегории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные\nжидкости.\n\nЕсть онлайн подборщик масел, в котором можно...",
       "categories": [],
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhycbieIJA0OAiJ4oVU5T1Zd1aQ0TWL0iHPhuPVpo2gV3DthsXtny77ShqNLxcVl47kHtZXidr9BmQOKj8FJT-S2tLYvmDGPU8eRoC-bJ1voOgkpkQcpaq1YSr1vDLeBVHzGTn3QDOL_K3thwPbmgtRfAdF2o0zRhofwkNVXvGXvfowlrsmCjiB9iQIemg/s320/photo_2026-04-30_08-43-55.jpg",
       "image_count": 1,
@@ -116,8 +161,8 @@
         "headline": "Подбор и заказ масла Lukoil",
         "url": "https://sochiautoparts.ru/blog/podbor-i-zakaz-masla-lukoil",
         "datePublished": "2026-05-19T08:32:56.000Z",
-        "dateModified": "2026-05-19T09:23:26.000Z",
-        "description": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.\nЕсть онлайн подборщик масел, в котором можно...",
+        "dateModified": "2026-05-19T12:04:09.000Z",
+        "description": "В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти\nкатегории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные\nжидкости.\n\nЕсть онлайн подборщик масел, в котором можно...",
         "inLanguage": "ru-RU",
         "publisher": {
           "@type": "Organization",
